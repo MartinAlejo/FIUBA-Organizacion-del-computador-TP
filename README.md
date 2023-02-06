@@ -1,1 +1,1 @@
-# FIUBA-Organizacion-del-computador-TP
+Resolución del TP (enunciado número 6) de la materia "Organización del Computador" - FIUBA
